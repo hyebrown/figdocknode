@@ -1,7 +1,8 @@
 
 
-NOTE: running fighack.sh will delete all docker containers on the host!!!!  NOTE
+WARNING: running fighack.sh will delete all docker containers on the host!!!!  
 =====================================================
+
 
 assumptions:
 -----------------------------------------------------

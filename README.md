@@ -2,6 +2,7 @@
 
 WARNING: running fighack.sh will delete all docker containers on the host!!!!  
 =====================================================
+(Fig doesn't overwrite previous containers reliably, so fighack starts off by cleaning out all pre-existing containers)
 
 
 assumptions:

@@ -26,3 +26,7 @@ notes:
 ** technically unecessary since docker2 communicates with docker1 over docker's internal subnet
 ** but it's handy to hit docker1 from an external browser to confirm it's behavior
 ** http://<docker1's host OS ip address>:8000/
+* the 'pay off/proof' is displayed in the console near the bottom of the output from fighack.sh.
+* it should look something like this:
+
+docker2: response from docker1 [hello world from docker1]
